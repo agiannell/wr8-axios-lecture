@@ -1,5 +1,6 @@
 import React from 'react';
-import Collection from './Componenets/Collection'
+import Collection from './Components/Collection'
+import axios from 'axios';
 import './App.css';
 
 function App() {
